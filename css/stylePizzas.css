@@ -1,0 +1,32 @@
+body{
+    background: #d1541f;
+    height: 100vh;
+    margin: 0;
+}
+.container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+    
+}
+img{
+    width: 100%;
+    max-width: 350px; /* Máximo ancho de 350px para imágenes grandes */
+    height: auto
+}
+.divPizzas
+{
+    margin: 10px;
+    padding: 10px;
+    /* box-sizing: border-box; */
+}
+.titulo{
+    text-align: center;
+    align-items: center;
+}
+.tituloPizza{
+    text-align: center;
+}
